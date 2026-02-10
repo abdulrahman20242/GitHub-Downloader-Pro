@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --name "GitHub_Downloader_Pro" github_downloader.py
