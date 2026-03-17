@@ -1,5 +1,3 @@
-
-
 # 📦 GitHub Downloader Pro
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
@@ -119,4 +117,8 @@ GitHub-Downloader-Pro/
 
 ---
 
-> **تم إنشاء هذا بكل ❤️ | Built with ❤️**
+<p align="center">
+  Built with ❤️ by <a href="https://github.com/abdulrahman20242">@abdulrahman20242</a>
+  <br>
+  تم إنشاؤه بكل ❤️ بواسطة <a href="https://github.com/abdulrahman20242">@abdulrahman20242</a>
+</p>
